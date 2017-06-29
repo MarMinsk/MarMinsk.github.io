@@ -49,7 +49,7 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://github.com/MarMinsk/Knowing-Underground">Knowing Underground</a> - a London Underground memory game</li>
+	<li><a href="https://github.com/MarMinsk/Storyline">Storyline</a> - a reading resource for book lovers</li>
+	<li><a href="https://github.com/MarMinsk/mum-does-that-client">Mum Does That</a> - a skills sharing platform for professional women</li>
 </ul>
