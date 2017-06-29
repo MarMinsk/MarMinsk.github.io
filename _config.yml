@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/Marisa-profile-pic.jpg
+picture: assets/images/Marisa-profile-pic.png
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -34,22 +34,22 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: marisa.wheatley.1
+twitter: marisa_wheatley
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: marisa-wheatley-9069382/
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: MarMinsk
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
-email: myemail@gmail.com
+email: mwheatley@hotmail.com
 
 authors:
     johndoe:
@@ -79,7 +79,7 @@ projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+# blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
