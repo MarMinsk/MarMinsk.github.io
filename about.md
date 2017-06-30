@@ -25,7 +25,7 @@ layout: page
 	<li>Git / GitHub / Heroku</li>
 	<li>MySQL - MongoDB</li>
 	<li>Agile Methodologies</li>
-	<li>TDD</li>
+	<li>TDD - Mocha / Chai</li>
   <li>MVC Design Patterns</li>
 </ul>
 
@@ -49,7 +49,7 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/MarMinsk/Knowing-Underground">Knowing Underground</a> - a London Underground memory game</li>
+	<li><a href="https://github.com/MarMinsk/Knowing-Underground">Knowing Underground</a> - a London Underground themed memory game</li>
 	<li><a href="https://github.com/MarMinsk/Storyline">Storyline</a> - a reading resource for book lovers</li>
   <li><a href="https://github.com/MarMinsk/paws-and-play">Paws & Play</a> - a dog walking app</li>
 	<li><a href="https://github.com/MarMinsk/mum-does-that-client">Mum Does That</a> - a skills sharing platform for professional women</li>
