@@ -51,5 +51,6 @@ layout: page
 <ul>
 	<li><a href="https://github.com/MarMinsk/Knowing-Underground">Knowing Underground</a> - a London Underground memory game</li>
 	<li><a href="https://github.com/MarMinsk/Storyline">Storyline</a> - a reading resource for book lovers</li>
+  <li><a href="https://github.com/MarMinsk/paws-and-play">Paws & Play</a> - a dog walking app</li>
 	<li><a href="https://github.com/MarMinsk/mum-does-that-client">Mum Does That</a> - a skills sharing platform for professional women</li>
 </ul>
