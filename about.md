@@ -4,9 +4,9 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I am a people person who loves solving practical problems.</p>
+<p>I'm a people person who loves solving practical problems.</p>
 
-<p>A recent graduated from the General Assembly (London) Web Development Immersive program, I am now looking to combine my newly acquired software development skills with the ten years’ professional experience I have already developed in the tech sector.</p>
+<p>A recent graduate from the General Assembly (London) Web Development Immersive program, I am now looking to combine my newly acquired software development skills with the ten years’ professional experience I have already developed in the tech sector.</p>
 
 <p>I am enthusiastic about the benefits of agile software development and I have seen for myself how diverse and inclusive teams can provide innovative and progressive solutions to technical and organisational challenges. I hope to find a role in an environment where both individual and team contribution and continued learning are encouraged.</p>
 

@@ -3,7 +3,7 @@ name: Marisa Wheatley
 bio: Coder | Cat Lover | Coffee Drinker
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A site about code, cats and caffine
 
 # if it's an external image, update below for true
 # better with square images
@@ -15,7 +15,7 @@ picture: assets/images/Marisa-profile-pic-2.png
 resume: true
 # resume-external: true
 # resume-url: https://google.com/?q=my+resume
-resume-url: assets/images/Marisa-Wheatley-GA-WDI-CV.pdf
+resume-url: assets/images/MW-GA-WDI-portfolio-CV.pdf
 
 # url: https://koppl.in/indigo
 # your url: http://USERNAME.github.io
@@ -54,18 +54,24 @@ github: MarMinsk
 email: mwheatley@hotmail.com
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+    # johndoe:
+    #     name: John Doe
+    #     bio: A Man who travels the world eating noodles
+    #     external-image: false
+    #     picture: assets/images/profile.jpg
+    #     twitter: johndoe
+    # jamesfoster:
+    #     name: James Foster
+    #     bio: A Man who develops software with coffee
+    #     external-image: false
+    #     picture: assets/images/james.jpg
+    #     twitter: jamesfoster
+      marisawheatley:
+        name: Marisa Wheatley
+        bio: A woman who wants to change the world through tech
         external-image: false
-        picture: assets/images/profile.jpg
-        twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+        picture: assets/images/Marisa-profile-pic-2.png
+        twitter: marisa_wheatley
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -90,7 +96,7 @@ read-time: true
 show-tags: true
 
 # related posts inside a post?
-related: true
+# related: true
 
 # Display links for next and previous posts for the specified categories
 post-advance-links: [blog]
